@@ -14,6 +14,6 @@ public class Serial {
      * @return incremented number
      */
     public int[] increment(){
-        return current;
+        return null;
     }
 }
