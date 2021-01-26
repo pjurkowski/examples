@@ -1,7 +1,8 @@
-package org.example;
+package org.example.pracitcal;
 
 /**
  * Serial is a array containing digits that are components of really big number.
+ * Implement the increment method so it can increment numbers.
  */
 public class Serial {
 
@@ -9,7 +10,7 @@ public class Serial {
 
     /**
      * Increment current number by one.
-     * Example current {7,9} after increment {8,0}
+     * Example current 79 stored as {7,9} after increment it should be 80 {8,0}
      * @return incremented number
      */
     public int[] increment(){

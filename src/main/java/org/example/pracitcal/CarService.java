@@ -1,8 +1,8 @@
-package org.example;
+package org.example.pracitcal;
 
 /**
  * Given a class Car, and a array of cars please implement a method that will return data
- * structure allowing getting all cars by any color.
+ * structure allowing getting all cars by any color based on cars array.
  */
 public class CarService {
 
@@ -22,9 +22,9 @@ public class CarService {
     };
 
     static class Car {
-        private String make;
-        private String model;
-        private String color;
+        private final String make;
+        private final String model;
+        private final String color;
 
         public Car(String make, String model, String color) {
             this.make = make;

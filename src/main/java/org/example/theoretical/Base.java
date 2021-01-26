@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Base64;
+package org.example.theoretical;
 
 public class Base {
 
