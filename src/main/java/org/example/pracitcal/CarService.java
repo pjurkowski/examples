@@ -2,7 +2,7 @@ package org.example.pracitcal;
 
 /**
  * Given a class Car, and a array of cars please implement a method that will return data
- * structure allowing getting all cars by any color based on cars array.
+ * structure allowing getting all cars by any color. Cars array is data source
  */
 public class CarService {
 
