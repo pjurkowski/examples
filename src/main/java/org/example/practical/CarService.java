@@ -1,4 +1,4 @@
-package org.example.pracitcal;
+package org.example.practical;
 
 /**
  * Given a class Car, and a array of cars please implement a method that will return data

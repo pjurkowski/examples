@@ -1,4 +1,4 @@
-package org.example.pracitcal;
+package org.example.practical;
 
 /**
  * Implement countIpAddresses method

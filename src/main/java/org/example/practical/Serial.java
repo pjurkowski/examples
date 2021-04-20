@@ -1,4 +1,4 @@
-package org.example.pracitcal;
+package org.example.practical;
 
 /**
  * Serial is a array containing digits that are components of really big number.
